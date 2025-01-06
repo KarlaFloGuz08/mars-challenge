@@ -44,5 +44,5 @@ Atmospheric Pressure
 The lowest pressure is found in month: 6 (Pressure: 745.05) and the highest pressure is found in month: 9 (Pressure: 913.31).
 
 Year Length
-There is a peak around 690-740 and another around 1375-1425. Therefore, one Martian year is around 685 terrestrial days in the plot. The literature confirms that martian year length is 687.
+There is a peak around 690-740 and another around 1375-1425. Therefore, one Martian year is around 685 terrestrial days in the plot. The literature confirms that Martian year length is 687.
 
